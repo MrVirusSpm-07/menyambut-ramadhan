@@ -228,7 +228,7 @@ echo
 echo $purple"TAHU DAN TEMPE : gpp yang penting niat puasa :)"
 sleep 5
 echo
-echo $white"DAH ITU YG SERING DI MAKAN BUAT LAUK SAHUR..."
+echo $white"DAH ITU YG SERING DI MAKAN BUAT LAUK SAHUR...."
 echo
 sleep 1
 fi
